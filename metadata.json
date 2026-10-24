@@ -1,0 +1,6 @@
+{
+  "name": "SafeShield VPN",
+  "description": "تطبيق VPN متكامل وسريع لهواتف الأندرويد مع خوادم عالمية مشفرة، دعم مشاركة الاتصال ونقطة الاتصال Hotspot، وتكوينات WireGuard و Proxy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SafeShield VPN</string>
+    <string name="vpn_service_label">SafeShield VPN Service</string>
+    <string name="vpn_channel_name">حالة اتصال VPN</string>
+    <string name="vpn_channel_desc">إشعارات حالة اتصال VPN ونشاط النفق المشفر</string>
+    <string name="vpn_connected">متصل بنجاح</string>
+    <string name="vpn_disconnected">غير متصل</string>
+    <string name="vpn_connecting">جارٍ الاتصال…</string>
+    <string name="vpn_disconnecting">جارٍ قطع الاتصال…</string>
+    <string name="tap_to_connect">اضغط للاتصال السريع</string>
+    <string name="tap_to_disconnect">اضغط لإيقاف الاتصال</string>
+    <string name="quick_connect">اتصال تلقائي بأسرع خادم</string>
+    <string name="servers_title">الخوادم العالمية</string>
+    <string name="share_guide_title">طرق الاتصال والمشاركة</string>
+    <string name="settings_title">الإعدادات المتقدمة</string>
+</resources>
